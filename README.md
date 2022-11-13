@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **36awadesh@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](resume.pdf)
+- 📄 Know about my experiences [[resume.pdf](https://docs.google.com/document/d/e/2PACX-1vRXMGXBGnKnlf_GBLzPHpXF1uj_rM08pmzPMQ5vY7nfHU0atEzMEZ32ehDP8PeRPmi-CBmG1XEYPP8z/pub)](resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
