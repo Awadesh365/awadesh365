@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=awadesh365" alt="awadesh365" /></a> </p>
 
-- 🔭 I’m currently working on **Front end Development, Problem-solving, Data Structures and Algorithms**
+- 🔭 I’m currently working on **"Projects based on Software Development", Problem-solving, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
 
