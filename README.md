@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awadesh</h1>
 <h3 align="center">A Full stack developer</h3>
-<img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="">
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/05/pexels-tara-winstead-8386440--1-.jpg" alt ="Programing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awadesh365&label=Profile%20views&color=0e75b6&style=flat"
         alt="awadesh365" /> </p>
