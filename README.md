@@ -39,7 +39,7 @@
 | **Domain Knowledge**           | ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=flat&logoColor=white) |
 
 </div>
-- 🔭 I’m currently working on **"Projects based on Software Development", Problem-solving, Data Structures and Algorithms**
+- 🔭 I’m currently working on  **Projects based on Software Development, Problem-solving, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
 
