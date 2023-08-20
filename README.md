@@ -18,9 +18,30 @@
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/05/pexels-tara-winstead-8386440--1-.jpg" alt ="Programing">
 
 
+
 <!--   my-skils -->
 
+## About
+
+I'm dedicated to evolving from:
+
+- **Competition and Jealousy** to **Collaboration and Learning**
+- **Immaturity** to **Growth and Impact**
+- **Isolation** to **Teamwork and Societal Betterment**
+
+In addition, I'm passionate about fostering a positive corporate culture that promotes:
+
+- **Inclusivity:** Ensuring that all voices are heard and valued.
+- **Innovation:** Encouraging creative thinking and problem-solving.
+- **Ethical Values:** Upholding honesty, integrity, and social responsibility.
+- **Employee Well-being:** Prioritizing the health and happiness of team members.
+- **Diversity:** Embracing different backgrounds and perspectives.
+
+Breaking free from fixed mindsets, I aim to contribute to a corporate culture that not only benefits individuals but also society as a whole.
+
+
 <div align="center">
+
 
 # My Technical Skills
 
@@ -40,7 +61,7 @@
 | **Domain Knowledge**           | ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=flat&logoColor=white) |
 
 </div>
-- 🔭 I’m currently working on  **Projects based on Software Development, Problem-solving, Data Structures and Algorithms**
+- 🔭 I’m currently working on Projects based on Software Development, Problem-solving, Data Structures and Algorithms
 
 - 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
 
