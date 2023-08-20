@@ -39,7 +39,7 @@ Hey there, I'm Awadesh Nautiyal, a passionate Full Stack Developer and a Compute
 
 I'm open to collaborations, feedback, and new connections. Feel free to reach out, fork a project, or start a conversation. Let's build cool things and make a positive impact through code!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue)](https://www.linkedin.com/in/awadesh-nautiyal/)
 
 
 
