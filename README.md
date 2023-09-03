@@ -25,7 +25,7 @@
 
 ### About Me
 
-Hey there, I'm Awadesh Nautiyal, a passionate Full Stack Developer and a Computer Science and Engineering enthusiast. My GitHub journey is a reflection of my coding odyssey, where I explore the realms of technology.
+Hey there, I'm Awadesh Nautiyal, a passionate Front-end Developer and a Computer Science and Engineering enthusiast. My GitHub journey is a reflection of my coding odyssey, where I explore the realms of technology.
 
 ### What You'll Find Here
 
@@ -33,7 +33,7 @@ Hey there, I'm Awadesh Nautiyal, a passionate Full Stack Developer and a Compute
 
 📚 **Learning Together:** Learning is a lifelong journey, and I believe in sharing knowledge. You'll find code samples, in my repositories. Let's learn and grow together!
 
-🧰 **Toolbox:** My toolbox includes languages like JavaScript, C++, and more, as well as frameworks like React.js and Node.js. I'm always exploring new tools and technologies to expand my skillset.
+🧰 **Toolbox:** My toolbox includes languages like JavaScript, C++, and more, as well as frameworks like React.js. I'm always exploring new tools and technologies to expand my skillset.
 
 ### Connect and Collaborate
 
