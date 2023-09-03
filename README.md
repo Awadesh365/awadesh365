@@ -9,11 +9,11 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98"><img src="https://miro.medium.com/v2/resize:fit:678/1*l2tlJsFNg2tH6QizegKkqA.png" align="right" height="90" width="190" ></a>
+<a href="https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98"><img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" align="right" height="90" width="190" ></a>
 
 
 <!--https://readme-typing-svg.herokuapp.com/demo/  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=E21DF7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Awadesh;Welcome+to+My+Profile!;Full+Stack+Developer;Software+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Awadesh;Welcome+to+My+Profile;Software+Engineer;Front-end+Developer)](https://git.io/typing-svg)
 
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/05/pexels-tara-winstead-8386440--1-.jpg" alt ="Programing">
 
