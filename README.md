@@ -72,7 +72,7 @@ I'm open to collaborations, feedback, and new connections. Feel free to reach ou
 | **Cybersecurity**         | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat) |
 | **Mobile Development**    | ![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) |
 | **Firebase**              | ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) |
-| **Generative AI**         | ![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) ![Google BARD Badge](https://img.shields.io/badge/-Google%20BERT-4285F4?style=flat&logo=Google&logoColor=white) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat) |
+| **Generative AI**         | ![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) [![Google Bard](https://img.shields.io/badge/Google_Bard-Available-brightgreen.svg)](https://ai.googleblog.com/2022/01/lamda-language-model-for-dialogue.html) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat) |
 
 </div>
 
