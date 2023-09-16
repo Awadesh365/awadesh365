@@ -81,7 +81,7 @@ I'm open to collaborations, feedback, and new connections. Feel free to reach ou
 
 
 
-- 🔭 I’m currently working on Projects based on Software Development, Problem-solving, Data Structures and Algorithms
+- 🔭 I’m currently working on Projects based on Front-end Development using React, Problem-solving, Data Structures and Algorithms
 
 - 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
 
