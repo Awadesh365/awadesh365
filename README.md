@@ -73,7 +73,8 @@ I'm open to collaborations, feedback, and new connections. Feel free to reach ou
 | **Mobile Development**    | ![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) |
 | **Firebase**              | ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) |
 | **Generative AI**         | ![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) [![Google Bard](https://img.shields.io/badge/Google_Bard-Available-brightgreen.svg)](https://ai.googleblog.com/2022/01/lamda-language-model-for-dialogue.html) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat) |
-
+| **Design Tools**      |![Canva](https://img.shields.io/badge/Canva-Design%20Graphics%20and%20More-red) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes%20and%20Graphics-purple)](https://www.figma.com/) |
+| **Video Editing**   | [![VEED](https://img.shields.io/badge/VEED-Create%20and%20Edit%20Videos-blue)](https://www.veed.io/) |
 </div>
 
 
