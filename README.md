@@ -39,6 +39,8 @@ Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to cra
 
 🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like JavaScript, HTML, and CSS with finesse. The crown jewel is React.js, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies.
 
+🌟 **Code Quality**: I'm a staunch advocate for code quality. Every line of code I write reflects my commitment to maintainability, readability, and overall code excellence. Clean, efficient code is the hallmark of a true web magician.
+
 ### The Web Sorcery
 
 As a digital sorcerer, I specialize in:
