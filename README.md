@@ -41,8 +41,6 @@ Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to cra
   - Seeking the **right guidance**.
   - Following a **structured path** for efficient progress.
 - **Every problem has a solution**.
-
-- My Resume: https://www.canva.com/design/DAF0Vozaqtk/EWU97MaMevZjNg2ukN153A/edit
   
 
 ### What Awaits You
