@@ -25,13 +25,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue)](https://www.linkedin.com/in/awadesh-nautiyal/)
 
-## Welcome to My Code Wonderland! 🚀
+# Welcome to My Code Wonderland! 🚀
 
-### About Me
+## About Me
 
 Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to craft enchanting digital realms. My GitHub is your ticket to a captivating journey through the art of web development.
 
-### My Philosophy
+## My Philosophy
 
 - I believe that **everyone can learn and work on anything**, given the right conditions.
 - Key factors for success:
@@ -41,19 +41,24 @@ Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to cra
   - Seeking the **right guidance**.
   - Following a **structured path** for efficient progress.
 - **Every problem has a solution**.
-  
 
-### What Awaits You
+## What Awaits You
 
 🛠️ **Projects**: Explore my treasure trove of web creations in my repositories. Each project is a unique masterpiece, meticulously designed and coded to deliver extraordinary user experiences.
 
 📚 **Learn and Grow**: In the spirit of perpetual learning, my repositories are a wellspring of knowledge. Dive into code snippets, tutorials, and insights, and let's embark on a voyage through the ever-evolving landscape of web development.
 
-🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like JavaScript, HTML, and CSS with finesse. The crown jewel is React.js, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies.
+🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like JavaScript, HTML, and CSS with finesse. The crown jewel is React.js, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies like **Next.js, Tailwind CSS, and TypeScript**.
+
+🛢️ **Data Sorcery**: My magical database wand is powered by **MySQL** and I conjure database spells with the help of **Prisma** to shape the mystical data realms.
+
+🔗 **Versioning Spells**: I weave my code history using the ancient art of **GIT**, ensuring a harmonious journey through the enchanted realms of collaborative development.
+
+🐧 **Platform Mastery**: Rooted in the world of wizards, I command the forces of **LINUX** to shape and mold the very environment in which my spells come to life.
 
 🌟 **Code Quality**: I'm a staunch advocate for code quality. Every line of code I write reflects my commitment to maintainability, readability, and overall code excellence. Clean, efficient code is the hallmark of a true web magician.
 
-### The Web Sorcery
+## The Web Sorcery
 
 As a digital sorcerer, I specialize in:
 
@@ -62,7 +67,7 @@ As a digital sorcerer, I specialize in:
 - 🧪 **Testing and Optimization**: Meticulously crafting spells to optimize web performance, ensuring the swiftest and smoothest user journeys.
 - 🌐 **Web Alchemy**: Pioneering inclusivity by transmuting websites into accessible sanctuaries for all, regardless of ability.
 
-### Let's Collaborate and Conjure
+## Let's Collaborate and Conjure
 
 I thrive on the magic of collaboration. Whether it's co-creating an open-source spellbook, sharing insights, or conjuring new ideas over a mystical chat, I'm always ready. Reach out, fork a project, or spark a conversation. Together, we shall craft enchanting web solutions and wield the power of code to leave an indelible mark on the digital realm!
 
@@ -70,46 +75,30 @@ I thrive on the magic of collaboration. Whether it's co-creating an open-source 
 
 # My Technical Skills
 
-<div align="center">
-
-| Property                 | Data                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages / IDE**      | ![C Badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white) ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)                                                                                               |
-| **Tools**                | ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=white) |
-| **CI / CD**              | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white)                                                                                                                                                                        |
-| **OS**                   | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)                                                                           
-| **Domain Knowledge**     | ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=flat&logoColor=white) |  
-| **Databases**           |![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logoColor=white)|
-
-                                                                                                                                                     
-
-</div>
-
-# Additional Exposure
-
-<div align="center">
-
-| Property                  | Data                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-| **Web Development**       | ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat) ![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat)  ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)                                                                                   |
-| **Data Analysis**         | ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white)                                                                                                                                                                                                                                                                 |
-| **Data Science**          | ![Data Analytics Badge](https://img.shields.io/badge/-Data%20Analytics-FF5733?style=flat) ![Data Mining Badge](https://img.shields.io/badge/-Data%20Mining-00ACC1?style=flat) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=Python&logoColor=white)                                                                                            |                                                                                                                                                                                                                                                                                                       |
-| **Cybersecurity**         | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat) |
-| **Mobile Development**    | ![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) |
-| **Firebase**              | ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) |
-| **Generative AI**         | ![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) [![Google Bard](https://img.shields.io/badge/Google_Bard-Available-brightgreen.svg)](https://ai.googleblog.com/2022/01/lamda-language-model-for-dialogue.html) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat) |
-| **Design Tools**      |![Canva](https://img.shields.io/badge/Canva-Design%20Graphics%20and%20More-red) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes%20and%20Graphics-purple)](https://www.figma.com/) |
-| **Video Editing**   | [![VEED](https://img.shields.io/badge/VEED-Create%20and%20Edit%20Videos-blue)](https://www.veed.io/) |
-| **Content writing**   |[![Medium](https://img.shields.io/badge/Medium-Writing%20and%20Publishing-black)](https://medium.com/)|
-</div>
+![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+[![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logoColor=white)
+![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&logoColor=white)
+![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=for-the-badge&logoColor=white)
 
 
-
-
-
-
-- 🔭 I’m currently working on Projects based on Front-end Development using React, Problem-solving, Data Structures and Algorithms
+# Current Focus
+- 🔭 I’m currently working on Projects based on Front-end Development, Problem-solving, Data Structures and Algorithms
 
 - 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
 
