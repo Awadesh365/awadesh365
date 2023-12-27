@@ -97,6 +97,17 @@ I thrive on the magic of collaboration. Whether it's co-creating an open-source 
 ![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=for-the-badge&logoColor=white)
 
 
+# Also Worked On
+
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat)  ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)  ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white)
+![Data Analytics Badge](https://img.shields.io/badge/-Data%20Analytics-FF5733?style=flat) ![Data Mining Badge](https://img.shields.io/badge/-Data%20Mining-00ACC1?style=flat) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=Python&logoColor=white)
+![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat)
+![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
+![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) [![Google Bard](https://img.shields.io/badge/Google_Bard-Available-brightgreen.svg)](https://ai.googleblog.com/2022/01/lamda-language-model-for-dialogue.html) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat)
+![Canva](https://img.shields.io/badge/Canva-Design%20Graphics%20and%20More-red) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes%20and%20Graphics-purple)](https://www.figma.com/) [![VEED](https://img.shields.io/badge/VEED-Create%20and%20Edit%20Videos-blue)](https://www.veed.io/) [![Medium](https://img.shields.io/badge/Medium-Writing%20and%20Publishing-black)](https://medium.com/)
+
+
+
 # Current Focus
 - 🔭 I’m currently working on Projects based on Front-end Development, Problem-solving, Data Structures and Algorithms
 
