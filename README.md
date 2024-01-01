@@ -48,7 +48,7 @@ Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to cra
 
 📚 **Learn and Grow**: In the spirit of perpetual learning, my repositories are a wellspring of knowledge. Dive into code snippets, tutorials, and insights, and let's embark on a voyage through the ever-evolving landscape of web development.
 
-🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like JavaScript, HTML, and CSS with finesse. The crown jewel is React.js, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies like **Next.js, Tailwind CSS, and TypeScript**.
+🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like **JavaScript, HTML, and CSS** with finesse. The crown jewel is **React.js**, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies like **Next.js, Tailwind CSS, and TypeScript**.
 
 🛢️ **Data Sorcery**: My magical database wand is powered by **MySQL** and I conjure database spells with the help of **Prisma** to shape the mystical data realms.
 
