@@ -83,6 +83,7 @@ I thrive on the magic of collaboration. Whether it's co-creating an open-source 
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)  ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) 
 ![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
@@ -99,7 +100,7 @@ I thrive on the magic of collaboration. Whether it's co-creating an open-source 
 
 # Also Worked On
 
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)  ![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat)  ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)  ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat)  ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)  ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white)
 ![Data Analytics Badge](https://img.shields.io/badge/-Data%20Analytics-FF5733?style=flat) ![Data Mining Badge](https://img.shields.io/badge/-Data%20Mining-00ACC1?style=flat) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=Python&logoColor=white)
 ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat)
 ![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
