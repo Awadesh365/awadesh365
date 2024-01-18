@@ -29,7 +29,7 @@
 
 ## About Me
 
-Greetings, I'm Awadesh Nautiyal, a devoted Front-end Maestro on a mission to craft enchanting digital realms. My GitHub is your ticket to a captivating journey through the art of web development.
+Greetings, I'm Awadesh Nautiyal, a devoted Full Stack Maestro on a mission to craft enchanting digital realms. My GitHub is your ticket to a captivating journey through the art of web development.
 
 ## My Philosophy
 
