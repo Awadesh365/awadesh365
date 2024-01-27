@@ -42,36 +42,6 @@ Greetings, I'm Awadesh Nautiyal, a devoted Full Stack Maestro on a mission to cr
   - Following a **structured path** for efficient progress.
 - **Every problem has a solution**.
 
-## What Awaits You
-
-🛠️ **Projects**: Explore my treasure trove of web creations in my repositories. Each project is a unique masterpiece, meticulously designed and coded to deliver extraordinary user experiences.
-
-📚 **Learn and Grow**: In the spirit of perpetual learning, my repositories are a wellspring of knowledge. Dive into code snippets, tutorials, and insights, and let's embark on a voyage through the ever-evolving web development landscape.
-
-🧰 **My Arsenal**: Equipped with a versatile toolkit, I wield languages like **JavaScript, HTML, and CSS** with finesse. The crown jewel is **React.js**, among other front-end wizardries. My quest for mastery knows no bounds as I embrace cutting-edge technologies like **Next.js, Node.js, Express.js, Tailwind CSS, and TypeScript**.
-
-🛢️ **Data Sorcery**: My magical database wand is powered by **MongoDB** and I conjure database spells with the help of **Prisma** to shape the mystical data realms.
-
-🔗 **Versioning Spells**: I weave my code history using the ancient art of **GIT**, ensuring a harmonious journey through the enchanted realms of collaborative development.
-
-🐧 **Platform Mastery**: Rooted in the world of wizards, I command the forces of **LINUX** to shape and mold the very environment in which my spells come to life.
-
-🌟 **Code Quality**: I'm a staunch advocate for code quality. Every line of code I write reflects my commitment to maintainability, readability, and overall code excellence. Clean, efficient code is the hallmark of a true web magician.
-
-## The Web Sorcery
-
-As a digital sorcerer, I specialize in:
-
-- 📱 **Responsive Magic**: Ensuring web creations gracefully adapt to all devices, offering a spellbinding user experience.
-- 🚀 **Front-end Wizardry**: Proficient in the mystic arts of React.js and other enchanting frameworks for dynamic, feature-rich enchantments.
-- 🧪 **Testing and Optimization**: Meticulously crafting spells to optimize web performance, ensuring the swiftest and smoothest user journeys.
-- 🌐 **Web Alchemy**: Pioneering inclusivity by transmuting websites into accessible sanctuaries for all, regardless of ability.
-
-## Let's Collaborate and Conjure
-
-I thrive on the magic of collaboration. Whether it's co-creating an open-source spellbook, sharing insights, or conjuring new ideas over a mystical chat, I'm always ready. Reach out, fork a project, or spark a conversation. Together, we shall craft enchanting web solutions and wield the power of code to leave an indelible mark on the digital realm!
-
-
 
 # My Technical Skills
 
