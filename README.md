@@ -33,7 +33,7 @@ Greetings, I'm Awadesh Nautiyal, a devoted Full Stack Maestro on a mission to cr
 
 ## My Philosophy
 
-- I hold a strong belief in the innate ability of every individual to learn and excel in any field, provided they are given the right environment.
+- I strongly believe in the innate ability of every individual to learn and excel in any field, provided they are given the right environment.
 - Key components vital for success include:
   - **Practical experience**: Regular hands-on engagement with the subject matter, particularly through practical applications.
   - **Active involvement in projects**: Participation in real-world scenarios fosters deeper comprehension and skill enhancement.
@@ -43,7 +43,7 @@ Greetings, I'm Awadesh Nautiyal, a devoted Full Stack Maestro on a mission to cr
 - I firmly believe that for every problem, there exists a solution awaiting discovery through diligence and creativity.
 - Experience and consistent effort are paramount in refining skills and attaining mastery.
 - True success is not attained through shortcuts or overnight miracles; it demands dedicated hard work, consistency, and perseverance to realize one's aspirations.
-
+- **Whenever we face challenges, issues, bugs, problems, or setbacks, we learn something, and I collectively refer to it as the struggle that is important to expand our horizon of knowledge and skills. So always try new things, and never be afraid of failures; every problem is a gift and is there to teach us something valuable**.
 # My Technical Skills
 
 ![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
