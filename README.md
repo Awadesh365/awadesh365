@@ -29,57 +29,33 @@
 
 ## About Me
 
-Greetings, I'm Awadesh Nautiyal, a devoted Full Stack Maestro on a mission to craft enchanting digital realms. My GitHub is your ticket to a captivating journey through the art of web development.
+**Software engineering is my passion, and I strive to write clean and efficient code. I'm always learning new things and keeping myself updated with the latest advancements to tackle problems in the best way possible.**
 
-## My Philosophy
+**Every line I write reflects this dedication. I'm committed to delivering high-quality solutions that meet the highest industry standards..**
 
-- I strongly believe in the innate ability of every individual to learn and excel in any field, provided they are given the right environment.
-- Key components vital for success include:
-  - **Practical experience**: Regular hands-on engagement with the subject matter, particularly through practical applications.
-  - **Active involvement in projects**: Participation in real-world scenarios fosters deeper comprehension and skill enhancement.
-  - **Fostering the correct mindset**: Cultivating a growth-oriented mindset that embraces challenges and perceives setbacks as opportunities for growth.
-  - **Seeking appropriate guidance**: Accessing mentors, resources, and communities that offer valuable support and direction.
-  - **Implementing a robust plan**: Establishing clear objectives and a structured approach to achieving them is crucial for progress.
-- I firmly believe that for every problem, there exists a solution awaiting discovery through diligence and creativity.
-- Experience and consistent effort are paramount in refining skills and attaining mastery.
-- True success is not attained through shortcuts or overnight miracles; it demands dedicated hard work, consistency, and perseverance to realize one's aspirations.
-- **Whenever we face challenges, issues, bugs, problems, or setbacks, we learn something, and I collectively refer to it as the struggle that is important to expand our horizon of knowledge and skills. So always try new things, and never be afraid of failures; every problem is a gift and is there to teach us something valuable**.
+**Challenges are learning opportunities. Bugs, issues, and setbacks are stepping stones to improve my skills and knowledge. Every problem is a chance to learn something new, so I embrace the struggle and keep exploring new things without fearing failure.**
+
+
+
+
 # My Technical Skills
 
-![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-[![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)  ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) 
-![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&logoColor=white)
-![Software Engineering Badge](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=for-the-badge&logoColor=white)
+Got it, here's the updated table with separate sections for "Core Subjects" and "Operating Systems":
 
-
-# Also Worked On
-
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Material UI Badge](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat)  ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)  ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white)
-![Data Analytics Badge](https://img.shields.io/badge/-Data%20Analytics-FF5733?style=flat) ![Data Mining Badge](https://img.shields.io/badge/-Data%20Mining-00ACC1?style=flat) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=Python&logoColor=white)
-![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat)
-![Android Development Badge](https://img.shields.io/badge/-Android%20Development-3DDC84?style=flat) ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
-![Generative AI Badge](https://img.shields.io/badge/-Generative%20AI-4B8BBE?style=flat) [![Google Bard](https://img.shields.io/badge/Google_Bard-Available-brightgreen.svg)](https://ai.googleblog.com/2022/01/lamda-language-model-for-dialogue.html) ![Chat-GPT Badge](https://img.shields.io/badge/-Chat--GPT-4B8BBE?style=flat) ![Being Chat Badge](https://img.shields.io/badge/-Being%20Chat-007ACC?style=flat)
-![Canva](https://img.shields.io/badge/Canva-Design%20Graphics%20and%20More-red) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes%20and%20Graphics-purple)](https://www.figma.com/) [![VEED](https://img.shields.io/badge/VEED-Create%20and%20Edit%20Videos-blue)](https://www.veed.io/) [![Medium](https://img.shields.io/badge/Medium-Writing%20and%20Publishing-black)](https://medium.com/)
-
-
-
+| **Category**           | **Skills**                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![C Badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white) ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)                                                                                                                                                                  |
+| **Web Development**   | ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=white) ![Redux Toolkit Badge](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat) ![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat) |
+| **Backend as a Service**  | ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) ![Appwrite Badge](https://img.shields.io/badge/-Appwrite-009688?style=flat&logo=Appwrite&logoColor=white)                                                                                                                                                                                                                                                                                              |
+| **Blockchain**            | ![Blockchain Badge](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=Blockchain.com&logoColor=white) ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)                                                                                                                                                                                                                                                                                |                                                                                                       |
+| **Data Science**          |  ![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white) ![Data Analytics Badge](https://img.shields.io/badge/-Data%20Analytics-FF5733?style=flat) ![Data Mining Badge](https://img.shields.io/badge/-Data%20Mining-00ACC1?style=flat) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=Python&logoColor=white)                                                                                                                                                                                                                                                               |
+| **Cybersecurity**         | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-333333?style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Design Tools**          | ![Canva](https://img.shields.io/badge/Canva-Design%20Graphics%20and%20More-red) [![Figma](https://img.shields.io/badge/Figma-Design%20Prototypes%20and%20Graphics-purple)](https://www.figma.com/)                                                                                                                                                                                                                                                                                                        |
+| **Video Editing**         | [![VEED](https://img.shields.io/badge/VEED-Create%20and%20Edit%20Videos-blue)](https://www.veed.io/)                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Content writing**       | [![Medium](https://img.shields.io/badge/Medium-Writing%20and%20Publishing-black)](https://medium.com/)                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Problem Solving**       | ![Data Structures Badge](https://img.shields.io/badge/-Data%20Structures-008080?style=flat) ![Algorithms Badge](https://img.shields.io/badge/-Algorithms-00FFFF?style=flat) ![System Design Badge](https://img.shields.io/badge/-System%20Design-4682B4?style=flat) ![Quantitative Reasoning Badge](https://img.shields.io/badge/-Quantitative%20Reasoning-800080?style=flat)                                                                                                                                                                               |
+| **Core Subjects**         | ![Computer Networks Badge](https://img.shields.io/badge/-Computer%20Networks-FFD700?style=flat) ![Operating Systems Badge](https://img.shields.io/badge/-Operating%20Systems-008000?style=flat) ![OOPS Badge](https://img.shields.io/badge/-OOPS-FF8C00?style=flat) ![DBMS Badge](https://img.shields.io/badge/-DBMS-4B0082?style=flat)                                                                                                                                                                                                                               |
+| **Development OS**        | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)                                                                                                                                                                                                                                                                                                |
 # Current Focus
 - 🔭 I’m currently working on Projects based on Front-end Development, Problem-solving, Data Structures and Algorithms
 
