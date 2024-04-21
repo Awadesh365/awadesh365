@@ -40,7 +40,6 @@
 
 # My Technical Skills
 
-Got it, here's the updated table with separate sections for "Core Subjects" and "Operating Systems":
 
 | **Category**           | **Skills**                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,14 +55,6 @@ Got it, here's the updated table with separate sections for "Core Subjects" and 
 | **Problem Solving**       | ![Data Structures Badge](https://img.shields.io/badge/-Data%20Structures-008080?style=flat) ![Algorithms Badge](https://img.shields.io/badge/-Algorithms-00FFFF?style=flat) ![System Design Badge](https://img.shields.io/badge/-System%20Design-4682B4?style=flat) ![Quantitative Reasoning Badge](https://img.shields.io/badge/-Quantitative%20Reasoning-800080?style=flat)                                                                                                                                                                               |
 | **Core Subjects**         | ![Computer Networks Badge](https://img.shields.io/badge/-Computer%20Networks-FFD700?style=flat) ![Operating Systems Badge](https://img.shields.io/badge/-Operating%20Systems-008000?style=flat) ![OOPS Badge](https://img.shields.io/badge/-OOPS-FF8C00?style=flat) ![DBMS Badge](https://img.shields.io/badge/-DBMS-4B0082?style=flat)                                                                                                                                                                                                                               |
 | **Development OS**        | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)                                                                                                                                                                                                                                                                                                |
-# Current Focus
-- 🔭 I’m currently working on Projects based on Front-end Development, Problem-solving, Data Structures and Algorithms
-
-- 👨‍💻 All of my projects are available at [https://mywebsite.herokuapp.com/](https://mywebsite.herokuapp.com/)
-
-- 📫 How to reach me **36awadesh@gmail.com**
-
-- 📄 Know about my experiences [[resume.pdf]]( My resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
