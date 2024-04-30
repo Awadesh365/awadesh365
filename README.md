@@ -31,7 +31,7 @@
 
 **Software engineering is my passion, and I strive to write clean and efficient code. I'm always learning new things and keeping myself updated with the latest advancements to tackle problems in the best way possible.**
 
-**Every line I write reflects this dedication. I'm committed to delivering high-quality solutions that meet the highest industry standards..**
+**Every line I write reflects this dedication. I'm committed to delivering high-quality solutions that meet the highest industry standards.**
 
 **Challenges are learning opportunities. Bugs, issues, and setbacks are stepping stones to improve my skills and knowledge. Every problem is a chance to learn something new, so I embrace the struggle and keep exploring new things without fearing failure.**
 
