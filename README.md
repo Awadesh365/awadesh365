@@ -33,7 +33,9 @@
 
 **Every line I write reflects this dedication. I'm committed to delivering high-quality solutions that meet the highest industry standards.**
 
-**Challenges are learning opportunities. Bugs, issues, and setbacks are stepping stones to improve my skills and knowledge. Every problem is a chance to learn something new, so I embrace the struggle and keep exploring new things without fearing failure.**
+**Challenges are learning opportunities. Bugs, issues, and setbacks are stepping stones to improve my skills and knowledge. Every problem is a chance to learn something new, so I embrace the struggle and keep exploring new things without fearing failure.** 
+
+**I hold firm to the belief that 'Hard times create strong men, strong men create good times...' embodying the resilience and determination needed to overcome obstacles and contribute positively to my journey in technology.**
 
 
 
