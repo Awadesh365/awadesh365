@@ -63,18 +63,15 @@
 | **Development OS**        | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)                                                                                                                                                                                                                                                                                                |
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/NautiyalAwadesh" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png"
-            alt="awadeshnautiyal" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/awadesh-nautiyal" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
-            alt="awadesh-nautiyal" height="30" width="40" /></a>
-    <a href="https://fb.com/100068354002459" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/768px-Facebook_f_logo_%282021%29.svg.png?20210818083032"
-            alt="100068354002459" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/awadesh365/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/NautiyalAwadesh">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=awadesh365&show_icons=true&locale=en&layout=compact"
         alt="awadesh365" /></p>
