@@ -15,7 +15,7 @@
 <!--https://readme-typing-svg.herokuapp.com/demo/  -->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Awadesh;Welcome+to+My+Profile;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/05/pexels-tara-winstead-8386440--1-.jpg" alt ="Programing">
+![Gemini_Generated_Image_t0ois2t0ois2t0oi](https://github.com/user-attachments/assets/5daa52ec-e78f-4fed-9b80-aa81fba1cdb9)
 
 
 
