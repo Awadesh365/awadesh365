@@ -11,7 +11,6 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98"><img src="https://miro.medium.com/v2/resize:fit:678/1*l2tlJsFNg2tH6QizegKkqA.png" align="right" height="90" width="190" ></a>
 
 <!--https://readme-typing-svg.herokuapp.com/demo/  -->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Awadesh;Welcome+to+My+Profile;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
