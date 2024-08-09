@@ -29,6 +29,8 @@
 
 ## About Me
 
+**Hi! I’m Awadesh, but you can call me Jake for simplicity.**
+
 **I'm a passionate software engineer who translates that passion into building well-documented, maintainable, and efficient software. I'm committed to delivering high-quality solutions that meet the highest industry standards.**
 
 **I'm always learning new things and keeping myself updated with the latest advancements to tackle problems in the best way possible.**
