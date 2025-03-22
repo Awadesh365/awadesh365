@@ -7,7 +7,7 @@
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awadesh365&label=Profile%20views&color=0e75b6&style=flat" alt="awadesh365" />
-  <a href="https://github.com/awadesh365"><img src="https://img.shields.io/badge/status-available_for_hire-brightgreen.svg"></a>
+  <a href="https://github.com/awadesh365"><img src="https://img.shields.io/badge/status-currently@Massive_Mobility-blue.svg"></a>
 </p>
 
 <!-- Social Links with Modern Badges -->
@@ -24,18 +24,18 @@
 
 ## About Me 🚀
 
-I'm a **passionate frontend developer** with a keen eye for design and a dedication to creating exceptional user experiences. I specialize in crafting pixel-perfect, responsive interfaces that not only look stunning but also deliver seamless functionality.
+I'm a **passionate frontend developer** currently working at **Massive Mobility** where I craft pixel-perfect, responsive interfaces that deliver exceptional user experiences. With a keen eye for design and strong technical skills, I transform concepts into interactive, high-performance web applications.
 
-My approach combines **technical expertise with creative vision** to transform design concepts into interactive, high-performance web applications. I'm obsessed with details, from micro-interactions to optimized load times, ensuring every project I touch delivers both aesthetic appeal and technical excellence.
+My approach combines **technical expertise with creative vision**, ensuring every project I touch delivers both aesthetic appeal and technical excellence. I'm obsessed with details, from micro-interactions to optimized load times, creating interfaces that users love to interact with.
 
-I thrive in collaborative environments where I can contribute my frontend expertise while working closely with designers, backend developers, and stakeholders to create cohesive products that users love.
+I thrive in collaborative environments where I can contribute my frontend expertise while working closely with designers, backend developers, and stakeholders to create cohesive products that make an impact.
 
 ## 🎨 Frontend Expertise
 
 <!-- Modern Skills Table with Focus on Frontend -->
 | **Category** | **Skills** |
 |-------------|------------|
-| **🖥️ Frontend Frameworks & Libraries** | ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) |
+| **🖥️ Frontend Frameworks & Libraries** | ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) |
 | **🎭 CSS & Styling** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white) |
 | **🔧 JavaScript** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![ES6+](https://img.shields.io/badge/-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **🛠️ Build Tools & Testing** | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white) |
@@ -66,12 +66,16 @@ I thrive in collaborative environments where I can contribute my frontend expert
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awadesh365&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 💼 Portfolio Highlights
+## 💼 Professional Experience
 
-- 🏆 Developed responsive e-commerce interfaces with React, improving user engagement by 40%
-- 🎯 Implemented performance optimizations reducing load times by 60%
-- 🔍 Created accessible UIs adhering to WCAG guidelines 
-- 🚀 Designed and built interactive dashboards with real-time data visualization
+### Frontend Developer at Massive Mobility
+Currently building innovative web solutions and crafting exceptional user interfaces that deliver seamless experiences.
+
+#### Key Achievements:
+- 🏆 Developed responsive interfaces improving user engagement
+- 🎯 Implemented performance optimizations reducing load times
+- 🔍 Created accessible UIs adhering to best practices
+- 🚀 Built interactive dashboards with data visualization components
 
 ## 🌱 Currently Learning
 
@@ -82,7 +86,7 @@ I thrive in collaborative environments where I can contribute my frontend expert
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+While I'm currently employed at Massive Mobility, I'm always open to discussing frontend development, sharing ideas, or connecting with other developers in the community!
 
 [LinkedIn](https://www.linkedin.com/in/awadesh-nautiyal/) • [Email](mailto:your-email@example.com) • [Portfolio](https://your-portfolio.com)
 
